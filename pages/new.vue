@@ -40,6 +40,8 @@ export default {
   height: 100vh;
   border: solid 1px #999;
   border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
 }
 
 /* Banboo CSS */
