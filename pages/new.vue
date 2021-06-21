@@ -38,6 +38,8 @@ export default {
 
 .area {
   height: 100vh;
+  border: solid 1px #999;
+  border-radius: 5px;
 }
 
 /* Banboo CSS */
